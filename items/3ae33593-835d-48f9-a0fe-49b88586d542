@@ -1,0 +1,49 @@
+{
+  "CollectionId": "27d505ae-1378-48f0-a7f8-41812a2f062b",
+  "ItemTemplateId": "d070bbfa-7157-49fd-8df5-df1260b4dacb",
+  "Fields": [
+    {
+      "Id": "a1b2c3",
+      "Name": "Japanese Word",
+      "Value": "初歩"
+    },
+    {
+      "Id": "81361b",
+      "Name": "Japanese Word Audio",
+      "Value": ""
+    },
+    {
+      "Id": "d4e5f6",
+      "Name": "English Word",
+      "Value": "basics"
+    },
+    {
+      "Id": "a7b8c9",
+      "Name": "Pitch Accent",
+      "Value": "-_"
+    },
+    {
+      "Id": "d0e1f2",
+      "Name": "Hiragana Writing",
+      "Value": "しょほ"
+    },
+    {
+      "Id": "a3b4c5",
+      "Name": "Kanji Writing",
+      "Value": "初歩"
+    },
+    {
+      "Id": "d6e7f8",
+      "Name": "Japanese Sentence",
+      "Value": "ワニカニの使い方の初歩を教えるビデオを作りました。"
+    },
+    {
+      "Id": "a9b0c1",
+      "Name": "English Sentence",
+      "Value": "We made a video to teach you the ABCs of how to use WaniKani."
+    }
+  ],
+  "Tags": [],
+  "Id": "3ae33593-835d-48f9-a0fe-49b88586d542",
+  "Version": 1
+}

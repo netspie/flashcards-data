@@ -1,0 +1,81 @@
+{
+  "Name": "JP Word",
+  "Fields": [
+    {
+      "Id": "a1b2c3",
+      "Name": "Japanese Word"
+    },
+    {
+      "Id": "d0e1f2",
+      "Name": "Hiragana Writing"
+    },
+    {
+      "Id": "d4e5f6",
+      "Name": "English Word"
+    },
+    {
+      "Id": "81361b",
+      "Name": "Japanese Word Audio"
+    },
+    {
+      "Id": "a7b8c9",
+      "Name": "Pitch Accent"
+    },
+    {
+      "Id": "a3b4c5",
+      "Name": "Kanji Writing"
+    },
+    {
+      "Id": "d6e7f8",
+      "Name": "Japanese Sentence"
+    },
+    {
+      "Id": "a9b0c1",
+      "Name": "English Sentence"
+    }
+  ],
+  "FlashcardTemplates": [
+    {
+      "Id": "edd00d",
+      "Name": "Reading",
+      "Sides": [
+        {
+          "Name": "Front",
+          "FieldIds": [
+            "a1b2c3"
+          ]
+        },
+        {
+          "Name": "Back",
+          "FieldIds": [
+            "81361b",
+            "d0e1f2",
+            "a7b8c9",
+            "d4e5f6",
+            "a3b4c5",
+            "d6e7f8",
+            "a9b0c1"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "1d5d2a",
+      "Name": "Listening",
+      "Sides": []
+    },
+    {
+      "Id": "9856cc",
+      "Name": "Speaking",
+      "Sides": []
+    },
+    {
+      "Id": "7dfb44",
+      "Name": "Writing",
+      "Sides": []
+    }
+  ],
+  "IsArchived": false,
+  "Id": "d070bbfa-7157-49fd-8df5-df1260b4dacb",
+  "Version": 1
+}
