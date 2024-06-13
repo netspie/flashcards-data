@@ -1,0 +1,20 @@
+{
+  "CreatedTime": "2024-06-13T19:10:43.7360883Z",
+  "CollectionId": "d48bca02-5a83-4c24-88d1-c17e2e4bbe3b",
+  "ItemTemplateId": "25a7bf13-db99-40f6-8edc-3f6af91ca697",
+  "Fields": [
+    {
+      "Id": "1aac69",
+      "Name": "Character",
+      "Value": "歩"
+    },
+    {
+      "Id": "e15cc6",
+      "Name": "Meaning",
+      "Value": "walk"
+    }
+  ],
+  "Tags": [],
+  "Id": "62ba1862-db25-4b70-aa2c-c6b740407dc6",
+  "Version": 0
+}

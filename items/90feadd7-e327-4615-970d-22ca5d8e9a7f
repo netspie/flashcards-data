@@ -1,0 +1,20 @@
+{
+  "CreatedTime": "2024-06-13T18:59:27.3058267Z",
+  "CollectionId": "d48bca02-5a83-4c24-88d1-c17e2e4bbe3b",
+  "ItemTemplateId": "25a7bf13-db99-40f6-8edc-3f6af91ca697",
+  "Fields": [
+    {
+      "Id": "1aac69",
+      "Name": "Character",
+      "Value": "初"
+    },
+    {
+      "Id": "e15cc6",
+      "Name": "Meaning",
+      "Value": "first"
+    }
+  ],
+  "Tags": [],
+  "Id": "90feadd7-e327-4615-970d-22ca5d8e9a7f",
+  "Version": 0
+}

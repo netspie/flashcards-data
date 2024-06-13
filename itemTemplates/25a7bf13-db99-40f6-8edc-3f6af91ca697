@@ -1,0 +1,54 @@
+{
+  "Name": "JP Kanji",
+  "Fields": [
+    {
+      "Id": "1aac69",
+      "Name": "Character"
+    },
+    {
+      "Id": "e15cc6",
+      "Name": "Meaning"
+    }
+  ],
+  "FlashcardTemplates": [
+    {
+      "Id": "499817",
+      "Name": "Reading",
+      "Sides": [
+        {
+          "Name": "Front",
+          "FieldIds": [
+            "1aac69"
+          ]
+        },
+        {
+          "Name": "Back",
+          "FieldIds": [
+            "e15cc6"
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "ea6a63",
+      "Name": "Writing",
+      "Sides": [
+        {
+          "Name": "Front",
+          "FieldIds": [
+            "e15cc6"
+          ]
+        },
+        {
+          "Name": "Back",
+          "FieldIds": [
+            "1aac69"
+          ]
+        }
+      ]
+    }
+  ],
+  "IsArchived": false,
+  "Id": "25a7bf13-db99-40f6-8edc-3f6af91ca697",
+  "Version": 1
+}
