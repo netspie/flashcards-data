@@ -1,0 +1,20 @@
+{
+  "CreatedTime": "2024-06-13T21:45:38.4529788Z",
+  "CollectionId": "d48bca02-5a83-4c24-88d1-c17e2e4bbe3b",
+  "ItemTemplateId": "25a7bf13-db99-40f6-8edc-3f6af91ca697",
+  "Fields": [
+    {
+      "Id": "1aac69",
+      "Name": "Character",
+      "Value": "当"
+    },
+    {
+      "Id": "e15cc6",
+      "Name": "Meaning",
+      "Value": "correct"
+    }
+  ],
+  "Tags": [],
+  "Id": "6473eeb9-adc5-4c50-b9c7-0700baaadec5",
+  "Version": 0
+}
